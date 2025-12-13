@@ -3,7 +3,7 @@
     "description": "Theme about Pyoncord (real and true)",
     "authors": [
         {
-            "name": "rennpy",
+            "name": "LampDelivery",
             "id": "650805815623680030"
         }
     ],
@@ -41,7 +41,15 @@
         "BACKGROUND_SECONDARY_ALT": [
             "#26253b"
         ],
+        "CAR
+        D_BACKGROUND_DEFAULT": [
+            "#26253b"
+        ],
+
         "BACKGROUND_TERTIARY": [
+            "#26253b"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
             "#26253b"
         ],
         "BACKGROUND_ACCENT": [
@@ -143,7 +151,8 @@
         "PLUM_20": "#212034",
         "PLUM_17": "#26273b",
         "PLUM_13": "#26273b",
-        "PLUM_16": "#2d2c48"
+        "PLUM_16": "#2d2c48",
+        "PLUM_23": "#26253b"
         
  },
     "background": {
