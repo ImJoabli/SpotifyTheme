@@ -41,6 +41,9 @@
         "BACKGROUND_SECONDARY_ALT": [
             "#26253b"
         ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#26253b"
+        ],
         "CARD_BACKGROUND_DEFAULT": [
             "#26253b"
         ],
