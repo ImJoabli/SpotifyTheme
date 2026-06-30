@@ -1,30 +1,38 @@
 {
-  "name": "Spotify Dark",
-  "description": "Un tema oscuro inspirado en la interfaz de Spotify con acentos verdes.",
-  "author": "TuUsuario",
+  "name": "Spotify Discord Mobile",
+  "description": "Port oficial inspirado en el tema de CapnKitten. Negro puro, bordes oscuros y acentos verde Spotify.",
+  "author": "CapnKitten / TuUsuario",
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": ["#121212", "#121212"],
-    "BACKGROUND_SECONDARY": ["#191414", "#191414"],
-    "BACKGROUND_SECONDARY_ALT": ["#181818", "#181818"],
-    "BACKGROUND_TERTIARY": ["#0b0b0b", "#0b0b0b"],
+    "BACKGROUND_SECONDARY": ["#121212", "#121212"],
+    "BACKGROUND_SECONDARY_ALT": ["#191414", "#191414"],
+    "BACKGROUND_TERTIARY": ["#000000", "#000000"],
     "BACKGROUND_FLOATING": ["#282828", "#282828"],
     "BACKGROUND_MOBILE_PRIMARY": ["#121212", "#121212"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#191414", "#191414"],
-    "BACKGROUND_ACCENT": ["#1DB954", "#1DB954"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#121212", "#121212"],
+    "BACKGROUND_ACCENT": ["#1db954", "#1db954"],
     
-    "TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"],
-    "TEXT_MUTED": ["#B3B3B3", "#B3B3B3"],
-    "TEXT_LINK": ["#1ED760", "#1ED760"],
+    "TEXT_NORMAL": ["#f5f5f5", "#f5f5f5"],
+    "TEXT_MUTED": ["#b3b3b3", "#b3b3b3"],
+    "TEXT_LINK": ["#1ed760", "#1ed760"],
     
-    "INTERACTIVE_NORMAL": ["#B3B3B3", "#B3B3B3"],
-    "INTERACTIVE_HOVER": ["#FFFFFF", "#FFFFFF"],
-    "INTERACTIVE_ACTIVE": ["#1DB954", "#1DB954"]
+    "INTERACTIVE_NORMAL": ["#b3b3b3", "#b3b3b3"],
+    "INTERACTIVE_HOVER": ["#ffffff", "#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#1db954", "#1db954"],
+    
+    "KEYBOARD_KEY_BG": ["#1a1a1a", "#1a1a1a"],
+    "CHANNELS_DEFAULT": ["#b3b3b3", "#b3b3b3"],
+    "HEADER_PRIMARY": ["#ffffff", "#ffffff"],
+    "HEADER_SECONDARY": ["#b3b3b3", "#b3b3b3"]
   },
   "rawColors": {
-    "BRAND_260": "#1DB954",
-    "BRAND_360": "#1DB954",
-    "BRAND_500": "#1DB954",
+    "BRAND_260": "#1db954",
+    "BRAND_360": "#1db954",
+    "BRAND_500": "#1db954",
+    "PRIMARY_600": "#121212",
+    "PRIMARY_700": "#121212",
+    "PRIMARY_800": "#000000",
     "PLUGINS_VERSION": "1"
   }
 }
